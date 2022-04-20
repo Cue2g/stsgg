@@ -1,0 +1,7 @@
+https://colorhunt.co/palette/383838066163cdbe78f2f2f2
+
+plaleta:
+#383838
+#066163
+#CDBE78
+#F2F2F2
