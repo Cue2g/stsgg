@@ -30,7 +30,7 @@ export default function Home() {
             <img src={require('../img/logo.png')}  alt="logo" width="150px"/>
             <div className="uk-margin">
                 <div className="uk-inline">
-                    <span className="uk-form-icon" uk-icon="icon: user">♥</span>
+                    <span className="uk-form-icon" uk-icon="icon: user">:)</span>
                     <input className="uk-input" type="text" id="inputName"/>
                 </div>
             </div>
